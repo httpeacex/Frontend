@@ -1,13 +1,11 @@
 @font-face {
-  src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Book.woff);
-  font-family: 'Suisse';
-  font-weight: normal;
+  src: url(https://bestfonts.pro/fonts_files/5c168bb7b2143e318c4cdb0f/files/HelveticaNeueCyr-Thin.woff);
+  font-family: 'Helvetica Neue Thin';
 }
 
 @font-face {
-  src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Bold.woff
-);
-  font-family: 'Suisse';
+  src: url(https://bestfonts.pro/fonts_files/5c168bb7b2143e318c4cdb0f/files/HelveticaNeueCyr-Thin.woff);
+  font-family: 'Helvetica Neue Thin';
   font-weight: bold;
 }
 
@@ -24,7 +22,7 @@ body {
   max-width: 540px;
   min-height: 100%;
   margin: 0 auto;
-  font-family: 'Suisse';
+  font-family: 'Helvetica Neue Thin';
   box-sizing: border-box;
   padding: 36px;
 }
@@ -71,12 +69,12 @@ body {
 }
 
 .footer {
-  font-style: HelveticaRegular;
+  font-style: 'Helvetica Neue Thin';
   font-size: 16px;
   margin: 0;
   position: absolute;
   bottom: 36px;
 }
 .phrases {
-  font-style: HelveticaRegular
+  font-style: 'Helvetica Neue Thin'
 }
