@@ -1,11 +1,15 @@
 @font-face {
-  src: url(https://bestfonts.pro/fonts_files/5c168bb7b2143e318c4cdb0f/files/HelveticaNeueCyr-Thin.woff);
-  font-family: 'Helvetica';
+  src: url(C:\Users\Dex\Desktop\My site\project\fonts\HelveticaNeueCyr-Thin.woff);
+  font-family: 'HelveticaNeueCyr-Thin';
+  font-style: normal;
+  font-weight: normal;
 }
 
 @font-face {
-  src: url(https://bestfonts.pro/fonts_files/5c168bb7b2143e318c4cdb0f/files/HelveticaNeueCyr-Thin.woff);
-  font-family: 'Helvetica';
+  src: url(C:\Users\Dex\Desktop\My site\project\fonts\HelveticaNeueCyr-Thin.woff);
+  font-family: 'HelveticaNeueCyr-Thin';
+  font-style: normal;
+  font-weight: normal;
 }
 
 html {
@@ -21,7 +25,7 @@ body {
   max-width: 540px;
   min-height: 100%;
   margin: 0 auto;
-  font-family: 'Helvetica';
+  font-family: 'HelveticaNeueCyr-Thin';
   box-sizing: border-box;
   padding: 36px;
 }
@@ -68,12 +72,12 @@ body {
 }
 
 .footer {
-  font-style: 'Helvetica';
+  font-style: 'normal;';
   font-size: 16px;
   margin: 0;
   position: absolute;
   bottom: 36px;
 }
 .phrases {
-  font-style: 'Helvetica'
+  font-style: 'normal'
 }
