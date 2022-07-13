@@ -1,11 +1,11 @@
 @font-face {
   src: url(https://bestfonts.pro/fonts_files/5c168bb7b2143e318c4cdb0f/files/HelveticaNeueCyr-Thin.woff);
-  font-family: 'Helvetica Neue Thin';
+  font-family: 'HelveticaNeueThin';
 }
 
 @font-face {
   src: url(https://bestfonts.pro/fonts_files/5c168bb7b2143e318c4cdb0f/files/HelveticaNeueCyr-Thin.woff);
-  font-family: 'Helvetica Neue Thin';
+  font-family: 'HelveticaNeueThin';
   font-weight: bold;
 }
 
@@ -22,7 +22,7 @@ body {
   max-width: 540px;
   min-height: 100%;
   margin: 0 auto;
-  font-family: 'Helvetica Neue Thin';
+  font-family: 'HelveticaNeueThin';
   box-sizing: border-box;
   padding: 36px;
 }
@@ -69,12 +69,12 @@ body {
 }
 
 .footer {
-  font-style: 'Helvetica Neue Thin';
+  font-style: 'HelveticaNeueThin';
   font-size: 16px;
   margin: 0;
   position: absolute;
   bottom: 36px;
 }
 .phrases {
-  font-style: 'Helvetica Neue Thin'
+  font-style: 'HelveticaNeueThin'
 }
