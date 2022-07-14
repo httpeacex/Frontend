@@ -1,8 +1,7 @@
 @font-face {
   font-family:  'HelveticaNeueCyr-Thin';
   src: local('HelveticaNeueCyr-Thin');
-  url(/fonts/HelveticaNeueCyr-Thin/HelveticaNeueCyr-Thin.woff2);
-
+  src : url(/fonts/HelveticaNeueCyr-Thin/HelveticaNeueCyr-Thin.woff2);
 }
 
 html {
